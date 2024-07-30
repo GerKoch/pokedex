@@ -38,5 +38,9 @@
   },
   "dependencies": {
     "bootstrap": "^4.4.1"
+  },
+  "main": "babel.config.js",
+  "directories": {
+    "doc": "doc"
   }
 }
